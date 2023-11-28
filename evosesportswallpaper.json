@@ -21,10 +21,10 @@
       "ad_status": 1,
       "main_ad": "admob",
       "backup_ad": "none",
-      "admob_banner_unit_id": "",
-      "admob_interstitial_unit_id": "",
-      "admob_native_unit_id": "",
-      "admob_app_open_unit_id": "",
+      "admob_banner_unit_id": "ca-app-pub-3327331946841025/5969269714",
+      "admob_interstitial_unit_id": "ca-app-pub-3327331946841025/8212289679",
+      "admob_native_unit_id": "ca-app-pub-3327331946841025/5119276377",
+      "admob_app_open_unit_id": "ca-app-pub-3327331946841025/9357904281",
       "ad_manager_banner_unit_id": "",
       "ad_manager_interstitial_unit_id": "",
       "ad_manager_native_unit_id": "",
@@ -74,207 +74,207 @@
       "wallpaper_id": 1,
       "wallpaper_name": "Evos 1",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/1.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/1.jpg"
     },
     {
       "wallpaper_id": 2,
       "wallpaper_name": "Evos 2",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/10.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/10.jpg"
     },
     {
       "wallpaper_id": 3,
       "wallpaper_name": "Evos 3",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/11.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/11.jpg"
     },
     {
       "wallpaper_id": 4,
       "wallpaper_name": "Evos 4",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/12.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/12.jpg"
     },
     {
       "wallpaper_id": 5,
       "wallpaper_name": "Evos 5",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/13.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/13.jpg"
     },
 	{
       "wallpaper_id": 6,
       "wallpaper_name": "Evos 6",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/14.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/14.jpg"
     },
     {
       "wallpaper_id": 7,
       "wallpaper_name": "Evos 7",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/15.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/15.jpg"
     },
     {
       "wallpaper_id": 8,
       "wallpaper_name": "Evos 8",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/16.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/16.jpg"
     },
     {
       "wallpaper_id": 9,
       "wallpaper_name": "Evos 9",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/17.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/17.jpg"
     },
     {
       "wallpaper_id": 10,
       "wallpaper_name": "Evos 10",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/18.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/18.jpg"
     },
 	{
       "wallpaper_id": 11,
       "wallpaper_name": "Evos 11",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/19.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/19.jpg"
     },
     {
       "wallpaper_id": 12,
       "wallpaper_name": "Evos 12",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/2.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/2.jpg"
     },
     {
       "wallpaper_id": 13,
       "wallpaper_name": "Evos 13",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/20.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/20.jpg"
     },
     {
       "wallpaper_id": 14,
       "wallpaper_name": "Evos 14",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/21.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/21.jpg"
     },
     {
       "wallpaper_id": 15,
       "wallpaper_name": "Evos 15",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/22.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/22.jpg"
     },
 	{
       "wallpaper_id": 16,
       "wallpaper_name": "Evos 16",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/23.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/23.jpg"
     },
     {
       "wallpaper_id": 17,
       "wallpaper_name": "Evos 17",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/24.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/24.jpg"
     },
     {
       "wallpaper_id": 18,
       "wallpaper_name": "Evos 18",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/25.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/25.jpg"
     },
     {
       "wallpaper_id": 19,
       "wallpaper_name": "Evos 19",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/blob/main/26.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/blob/main/26.jpg"
     },
     {
       "wallpaper_id": 20,
       "wallpaper_name": "Evos 20",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/27.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/27.jpg"
     },
 	
     {
       "wallpaper_id": 21,
       "wallpaper_name": "Evos 21",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/28.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/28.jpg"
     },
     {
       "wallpaper_id": 22,
       "wallpaper_name": "Evos 22",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/29.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/29.jpg"
     },
 	{
       "wallpaper_id": 23,
       "wallpaper_name": "Evos 23",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/30.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/30.jpg"
     },
     {
       "wallpaper_id": 24,
       "wallpaper_name": "Evos 24",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/31.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/31.jpg"
     },
     {
       "wallpaper_id": 25,
       "wallpaper_name": "Evos 25",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/32.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/32.jpg"
     },
     {
       "wallpaper_id": 26,
       "wallpaper_name": "Evos 26",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/33.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/33.jpg"
     },
     {
       "wallpaper_id": 27,
       "wallpaper_name": "Evos 27",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/4.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/4.jpg"
     },
 	{
       "wallpaper_id": 28,
       "wallpaper_name": "Evos 28",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/5.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/5.jpg"
     },
     {
       "wallpaper_id": 29,
       "wallpaper_name": "Evos 29",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/6.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/6.jpg"
     },
     {
       "wallpaper_id": 30,
       "wallpaper_name": "Evos 30",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/7.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/7.jpg"
     },
     {
       "wallpaper_id": 31,
       "wallpaper_name": "Evos 31",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/8.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/8.jpg"
     },
     {
       "wallpaper_id": 32,
       "wallpaper_name": "Evos 32",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://github.com/EstehSakGelas/Evos-Wallpaper/main/9.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/EstehSakGelas/Evos-Wallpaper/main/9.jpg"
     }
   ],
   "more_apps": [
     {
       "id": 1,
       "title": "RRQ Esports Wallpaper",
-      "image": "https://github.com/EstehSakGelas/More-Apps-Icon/main/iconrrq.png",
+      "image": "https://raw.githubusercontent.com/EstehSakGelas/More-Apps-Icon/main/iconrrq.png",
       "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.rrqesportswallpaper"
     },
 	{
       "id": 1,
       "title": "Indonesia Esports Wallpaper",
-      "image": "https://github.com/EstehSakGelas/More-Apps-Icon/main/iconapkindoesports.jpg",
+      "image": "https://raw.githubusercontent.com/EstehSakGelas/More-Apps-Icon/main/iconapkindoesports.jpg",
       "url": "https://play.google.com/store/apps/details?id=com.estehsakgelas.indoesportswallpaper"
     }
   ]
